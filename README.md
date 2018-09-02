@@ -1,2 +1,2 @@
 # DATA-bm
-website to understand mysqli and php ,html css.
+web app to understand mysqli and php ,html css.
